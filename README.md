@@ -20,11 +20,32 @@ Experienced .NET Developer specializing in building scalable microservices and c
 - 💼 Open to **collaboration and freelance opportunities**
 - 💬 Ask me about **.NET, Microservices, Azure, DevOps, Web APIs, and Cloud Architecture**
 - 📍 Based in **Bijnor, Uttar Pradesh, India**
-- 📧 Reach out: **[nirmod.kumar656@gmail.com](mailto:nirmod.kumar656@gmail.com)**
+- 📧 Email: **[nirmod.kumar656@gmail.com](mailto:nirmod.kumar656@gmail.com)**
+- 🔗 LinkedIn: **[linkedin.com/in/nirmodkumar](https://www.linkedin.com/in/nirmodkumar/)**
 
 ---
 
-## 🛠️ Tech Stack
+## � Top Skills
+
+- **ASP.NET & ASP.NET Core** - Enterprise application development
+- **Microservices Architecture** - Scalable distributed systems
+- **Azure Cloud Platform** - Cloud infrastructure and deployment
+- **DevOps** - CI/CD pipelines and infrastructure automation
+- **Web APIs & REST** - RESTful service design
+- **SQL Server** - Database design and optimization
+- **Frontend** - React.js, Angular, jQuery UI
+- **Unit Testing** - NUnit, XUnit
+
+---
+
+## 🌐 Languages
+
+- **English** - Professional working proficiency
+- **Hindi** - Native proficiency
+
+---
+
+## �🛠️ Tech Stack
 
 <div align="center">
 
@@ -102,8 +123,12 @@ Brief description of what this project does.
 
 ## 🎓 Certifications & Learning
 
-- **[Certification Name](link)** - Year
-- **[Course Name](link)** - Platform
+- **Microsoft Certified: Azure Administrator Associate** - Microsoft
+- **Microsoft Certified: Azure Fundamentals** - Microsoft
+- **GitHub Foundations** - GitHub
+- **GitHub Copilot** - GitHub
+- **Vibe Code Hackathon** - Vibe Code using Cursor
+- **Master of Computer Applications (M.C.A.)** - Uttar Pradesh Technical University (2011-2014)
 
 ---
 
@@ -111,9 +136,10 @@ Brief description of what this project does.
 
 <div align="center">
 
-[**LinkedIn**](https://linkedin.com/in/nirmodkumar/) • 
+[**LinkedIn**](https://www.linkedin.com/in/nirmodkumar/) • 
 [**GitHub**](https://github.com/NirmodKumar) • 
-[**Email**](mailto:nirmod.kumar656@gmail.com)
+[**Email**](mailto:nirmod.kumar656@gmail.com) •
+[**Phone**](tel:+919041334273)
 
 </div>
 
