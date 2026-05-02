@@ -22,7 +22,6 @@ Full-Stack & AI Developer with 10+ years of experience building enterprise solut
 - 💬 Ask me about **.NET, Microservices, Azure, API Design, LLMs, Sub-Agents, and AI Automation**
 - 📍 Based in **Bijnor, Uttar Pradesh, India**
 - 📧 Email: **[nirmod.kumar656@gmail.com](mailto:nirmod.kumar656@gmail.com)**
-- 📱 Mobile: **9041334273**
 - 🔗 LinkedIn: **[linkedin.com/in/nirmodkumar](https://www.linkedin.com/in/nirmodkumar/)**
 
 ---
@@ -129,31 +128,37 @@ Full-Stack & AI Developer with 10+ years of experience building enterprise solut
 
 ## 📌 Featured Projects
 
-### 🎯 [Project Name 1](https://github.com/NirmodKumar/project-name-1)
-Brief description of what this project does and the problem it solves.
-- **Tech:** JavaScript, React, Node.js
-- **Features:** Feature 1, Feature 2, Feature 3
+<div align="center">
 
-### 🎯 [Project Name 2](https://github.com/NirmodKumar/project-name-2)
-Brief description of what this project does.
-- **Tech:** Python, Django, PostgreSQL
-- **Features:** Feature 1, Feature 2
+### 🚀 Coming Soon...
+
+Exciting projects powered by AI, microservices, and cloud-native technologies are in the works. Stay tuned!
+
+</div>
 
 ---
 
 ## 💡 Notable Contributions
 
-- **[Repository Name](https://github.com/user/repo)** - Added feature/fixed issue
-- **[Repository Name](https://github.com/user/repo)** - Contributed to project
+<div align="center">
+
+### 🚀 Coming Soon...
+
+Highlighting key contributions to open-source projects and the developer community.
+
+</div>
 
 ---
 
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Article Title](link-to-blog) - Brief description
-- [Article Title](link-to-blog) - Brief description
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+### 🚀 Coming Soon...
+
+Articles on AI integration, microservices architecture, Azure best practices, and API design.
+
+</div>
 
 ---
 
