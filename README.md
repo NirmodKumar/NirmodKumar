@@ -19,7 +19,7 @@ I'm a full-stack developer with a passion for building clean, scalable solutions
 - 🌱 Learning **[Technology/Skill You're Learning]**
 - 💼 Open to **collaboration and freelance opportunities**
 - 💬 Ask me about **[Your Expertise Area]**
-- 📧 Reach out: **[your.email@example.com](mailto:your.email@example.com)**
+- 📧 Reach out: **[nirmod.kumar656@gmail.com](mailto:nirmod.kumar656@gmail.com)**
 
 ---
 
@@ -111,7 +111,7 @@ Brief description of what this project does.
 [**Website**](https://yourwebsite.com) • 
 [**LinkedIn**](https://linkedin.com/in/yourprofile) • 
 [**Twitter**](https://twitter.com/yourhandle) • 
-[**Email**](mailto:your.email@example.com)
+[**Email**](mailto:nirmod.kumar656@gmail.com)
 
 </div>
 
